@@ -1,4 +1,4 @@
-package br.dev.s2w.jsensors.temperature.processing
+package br.dev.s2w.jsensors.temperature.processing.common
 
 import com.fasterxml.uuid.Generators
 import java.util.*

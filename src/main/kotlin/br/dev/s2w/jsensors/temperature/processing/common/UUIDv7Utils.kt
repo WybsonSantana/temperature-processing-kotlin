@@ -1,4 +1,4 @@
-package br.dev.s2w.jsensors.temperature.processing
+package br.dev.s2w.jsensors.temperature.processing.common
 
 import java.time.Instant
 import java.time.OffsetDateTime
