@@ -1,4 +1,4 @@
-package br.dev.s2w.jsensors.temperature.processing.api.config.web
+package br.dev.s2w.ksensors.temperature.processing.api.config.web
 
 import org.springframework.context.annotation.Configuration
 import org.springframework.format.FormatterRegistry

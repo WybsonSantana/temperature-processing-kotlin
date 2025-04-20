@@ -1,4 +1,4 @@
-package br.dev.s2w.jsensors.temperature.processing.common
+package br.dev.s2w.ksensors.temperature.processing.common
 
 import org.assertj.core.api.Assertions
 import org.junit.jupiter.api.Test

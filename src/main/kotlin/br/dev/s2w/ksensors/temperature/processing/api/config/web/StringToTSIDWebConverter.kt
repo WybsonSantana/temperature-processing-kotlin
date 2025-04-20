@@ -1,4 +1,4 @@
-package br.dev.s2w.jsensors.temperature.processing.api.config.web
+package br.dev.s2w.ksensors.temperature.processing.api.config.web
 
 import io.hypersistence.tsid.TSID
 import org.springframework.core.convert.converter.Converter

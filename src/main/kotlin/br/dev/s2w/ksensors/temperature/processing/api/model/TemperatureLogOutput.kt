@@ -1,4 +1,4 @@
-package br.dev.s2w.jsensors.temperature.processing.api.model
+package br.dev.s2w.ksensors.temperature.processing.api.model
 
 import io.hypersistence.tsid.TSID
 import java.time.OffsetDateTime
