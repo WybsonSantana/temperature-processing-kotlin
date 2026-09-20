@@ -7,7 +7,7 @@ object IdGenerator {
 
     private val timeBasedEpochRandomGenerator = Generators.timeBasedEpochRandomGenerator()
 
-    fun generateTimeBasedUUID(): UUID? =
+    fun generateTimeBasedUUID(): UUID =
         timeBasedEpochRandomGenerator.generate()
 
 }
